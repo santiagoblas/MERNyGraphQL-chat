@@ -1,0 +1,23 @@
+{
+  "name": "MERNyGraphQL-chat",
+  "version": "1.0.0",
+  "description": "Chat simple con MERN + GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagoblas/MERNyGraphQL-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagoblas/MERNyGraphQL-chat/issues"
+  },
+  "homepage": "https://github.com/santiagoblas/MERNyGraphQL-chat#readme",
+  "dependencies": {
+    "graphql": "^14.2.1"
+  }
+}
